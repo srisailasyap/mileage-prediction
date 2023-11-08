@@ -1,2 +1,2 @@
 # mileage-prediction
-car mileage prediction using machine learning
+car mileage prediction using machine horsepower and weight (regression)
